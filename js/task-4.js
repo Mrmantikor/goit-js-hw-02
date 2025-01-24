@@ -32,7 +32,7 @@ console.log(getShippingCost("Jamaica")); // "Shipping to Jamaica will cost 120 c
 console.log(getShippingCost("Sweden")); // "Sorry, there is no delivery to your country"
 
 
-//#region Задача 4. Доставка товаруgjc
+//#region Задача 4. Доставка товару
 // Виконуй це завдання у файлі task - 4.js
 // Оголоси функцію getShippingCost(country), яка повинна перевіряти можливість доставки товару в країну користувача (параметр country) і повертати повідомлення про результат. Обов'язково використовуй інструкцію switch.
 
