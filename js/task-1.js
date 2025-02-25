@@ -32,3 +32,4 @@ console.log(makeTransaction(10, 500, 5000)); // "You ordered 10 droids worth 500
 // в іншому випадку функція має повертати рядок "You ordered <quantity> droids worth <totalPrice> credits!", де    <quantity> це кількість замовлених дроїдів, а <totalPrice> це їх загальна вартість.
 // Візьми код нижче і встав після оголошення своєї функції для перевірки коректності її роботи. У консоль будуть виведені результати її роботи.
 // #endregion
+/
